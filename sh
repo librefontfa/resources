@@ -4,12 +4,12 @@
 set -e
 
 # Variables
-URL="https://example.com/fonts.tar.gz"  # Replace with the actual URL of the compressed file
-FILENAME=$(basename "$URL")             # Extract filename from URL
-DOWNLOAD_DIR="/tmp/librefont.ir"        # Download directory
-CHECKSUM="expected_checksum_here"       # Replace with the actual checksum (e.g., SHA256)
-CHECKSUM_TYPE="sha256sum"               # Checksum type (e.g., md5sum, sha256sum, etc.)
-FONT_INSTALL_DIR="/usr/local/share/fonts"  # System-wide font installation directory
+URL="https://github.com/librefontfa/font-repo/archive/refs/tags/v0.1.0p.tar.gz"
+FILENAME=$(basename "$URL")             
+DOWNLOAD_DIR="/tmp/librefont.ir"        
+CHECKSUM="d86990f663866d342bdcc5bf03dc4cf95b9d9183978d22f0571e7b40592fedd7"
+CHECKSUM_TYPE="sha256sum"
+FONT_INSTALL_DIR="/usr/local/share/fonts/librefontfa/"  # System-wide font installation directory
 
 # Function to display error and exit
 error_exit() {
