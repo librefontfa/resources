@@ -4,7 +4,7 @@
 set -e
 
 # Variables
-URL="https://github.com/librefontfa/font-repo/archive/refs/tags/v0.1.0p.tar.gz"
+URL="https://github.com/librefontfa/font-repo/archive/refs/tags/v0.1.1p.tar.gz"
 FILENAME=$(basename "$URL")             
 DOWNLOAD_DIR="/tmp/librefont.ir"        
 CHECKSUM="d86990f663866d342bdcc5bf03dc4cf95b9d9183978d22f0571e7b40592fedd7"
