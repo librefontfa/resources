@@ -1,11 +1,12 @@
-Font Family , Font Name,Designer ,Description,Version,License,Vendor,Weight,Style,Creation Date,last update,source
-Mikhak,Mikhak,Amin Abedi,,3.4,OFL-1.1 license ,,,,,,
-Estedad,Estedad,Amin Abedi,,7.3,OFL-1.1 license ,,,,,,
-Arad,Arad,Mohammad Darvishi,,1.0.1,OFL-1.1 license ,,,,,,
-Unixel,Unixel,Mohammad Darvishi,,1.0,OFL-1.1 license ,,,,,,
-Sorena,Sorena,Mohammad Darvishi,,1.2.0,OFL-1.1 license ,,,,,,
-Estedad-MD,Estedad-MD,Mohammad Darvishi,,1.1,OFL-1.1 license ,,,,,,
-Vazir,Vazirmatn,Saber Rasti Kerdar,فونت وب فارسی,33.003,OFL-1.1 license ,Vazir Project,100-900/Var,Bold,2015,2022,
-Vazir,Vazirmatn UI,Saber Rasti Kerdar,,33.003,OFL-1.1 license ,,,,,,
-Vazir,Vazircode,Saber Rasti Kerdar,,1.1.2,OFL-1.1 license ,,,,,,
-Sahel,Sahel,Saber Rasti Kerdar,,3.4,OFL-1.1 license ,,,,,,
+Font Family ,Designer ,Description,Version,License,Vendor,Weight,Creation Date,last update,source
+میخک,امین عابدی,,3.4,OFL-1.1 license ,,۹ وزن,۲۴ تیر ۱۳۹۷,۳۰ تیر ۱۴۰۰,https://github.com/aminabedi68/Mikhak
+استعداد,امین عابدی,,7.3,OFL-1.1 license ,,۹ وزن,۱۰ فروردین ۱۳۹۶,۳۰ تیر ۱۴۰۰,https://github.com/aminabedi68/Estedad/
+آذرمهر مونواسپیس,امین عابدی,,1.0,OFL-1.1 license ,,یک سبک,۱۳۹۷/۰۳/۰۸,۲۸ خرداد ۱۳۹۷,https://github.com/aminabedi68/AzarMehrMonospaced
+فندق,امین عابدی,,1.0,OFL-1.1 license ,,یک سبک,۱۳۹۶/۰۴/۰۷,,https://github.com/aminabedi68/Fandogh
+آراد,محمد درویشی,,1.0.1,OFL-1.1 license ,,۸ وزن,۱۴۰۳/۰۵/۰۵,۱۴۰۳/۰۶/۳۱,https://github.com/MDarvishi5124/Arad
+یونیکسل,محمد درویشی,,1.0,OFL-1.1 license ,,یک سبک,۱۴۰۲/۰۴/۱۶,,https://github.com/MDarvishi5124/Unixel
+سورنا,محمد درویشی,,1.2.0,OFL-1.1 license ,,دو سبک,۱۴۰۳/۰۱/۰۱,۱۴۰۳/۰۵/۰۹,https://github.com/MDarvishi5124/Sorena
+استعداد مَد,محمد درویشی,,1.1,OFL-1.1 license ,,یک سبک,۱۴۰۳/۰۴/۰۹,۱۴۰۳/۰۷/۰۶,https://github.com/MDarvishi5124/Arad
+وزیرمتن,صابر راستی‌کردار,فونت وب فارسی,33.003,OFL-1.1 license ,Vazir Project,۹ وزن,2015,2022,
+وزیرکد,صابر راستی‌کردار,,1.1.2,OFL-1.1 license ,,یک سبک,,,
+ساحل,صابر راستی‌کردار,,3.4,OFL-1.1 license ,,۶ وزن,,,
